@@ -6,7 +6,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Stack de Testes e Dev
 
 - ⚙️ Testes manuais e automatizados (Selenium, Cypress, Playwright)
 - 💻 Git, GitHub, CI/CD pipelines
