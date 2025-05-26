@@ -19,8 +19,8 @@
 ## 💡 Curiosidades
 
 - 🧩 Me desafio constantemente
-- 🎨 Desenho nas horas vagas
-- 💪 Acadamia e rope skiping
+- 🎨 Desenho
+- 💪 Academia e rope skiping
 - 🎮 Gamer nas horas vagas (e sim, isso ajuda com lógica 😄)
 - ✈️ Apaixonado por viagens e novas culturas
 
