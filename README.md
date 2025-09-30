@@ -1,15 +1,16 @@
 # 👋 Olá, eu sou o Rogério Portilho!
 
 🎯 **QA (Quality Assurance)** com +4 anos de experiência   
-🎓 Formado em Administração com **4 pós-graduações** em áreas como gestão de projetos, especialização em qualidade de software estratégicas de tecnologia.  
-💼 Atualmente atuando em uma empresa tech incrível, garantindo qualidade e performance nos produtos
+🎓 Formado em Administração com **3 pós-graduações** em áreas como gestão de projetos, gestão da qualidade de software e especialização em engenharia de software com ênfase em qualidade de software. 
+🎓 Atualmente na pós de Automação de testes de software.
+💼 Atualmente atuo em uma empresa de softwares ERP incrível, garantindo qualidade e performance nos produtos.
 
 ---
 
 ## 🚀 Stack de Testes e Dev
 
-- ⚙️ Testes manuais e automatizados (Selenium, Cypress, Playwright)
-- 💻 Git, GitHub, CI/CD pipelines
+- ⚙️ Testes manuais e automatizados (Cypress/ Selenium)
+- 💻 GitLab, GitHub, CI/CD pipelines
 - 🧪 Testes de API com Postman, Insomnia
 - 🧠 Metodologias Ágeis (Scrum/Kanban)
 - 📊 Ferramentas de documentação (JIRA, Trello, Notion)
