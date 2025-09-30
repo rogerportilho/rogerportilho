@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Rogério Portilho!
 
 🎯 **QA (Quality Assurance)** com +4 anos de experiência   
-🎓 Formado em Administração com **3 pós-graduações** em áreas como gestão de projetos, gestão da qualidade de software e especialização em engenharia de software com ênfase em qualidade de software. 
-🎓 Atualmente na pós de Automação de testes de software.
-💼 Atualmente atuo em uma empresa de softwares ERP incrível, garantindo qualidade e performance nos produtos.
+🎓 Formado em Administração com **3 pós-graduações** em áreas como gestão de projetos, gestão da qualidade de software e especialização em engenharia de software com ênfase em qualidade de software 
+🎓 Atualmente na pós de Automação de testes de software
+💼 Atualmente atuo em uma empresa de softwares ERP incrível, garantindo qualidade e performance nos produtos
 
 ---
 
